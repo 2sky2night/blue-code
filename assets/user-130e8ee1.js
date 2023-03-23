@@ -1,0 +1,1 @@
+import{d as t}from"./pinia-2579c363.js";const o=t("user",{state(){return{userBaseData:{art_count:0,fans_count:0,follow_count:0,id:"001",like_count:0,name:"用户名",photo:"https://varlet.gitee.io/varlet-ui/cat.jpg"}}}});export{o as u};

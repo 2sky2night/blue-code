@@ -1,0 +1,1 @@
+const o=r=>{const e=+new Date(r);let t=(+new Date-e)/1e3;return t<60?`${t}秒前`:(t=Math.floor(t/60),t<60?`${t}分钟前`:(t=Math.floor(t/60),t<24?`${t}小时前`:(t=Math.floor(t/24),t<30?`${t}天前`:(t=Math.floor(t/30),t<=12?`${t}个月前`:(t=Math.floor(t/12),`${t}年前`)))))};export{o as t};
